@@ -1,4 +1,4 @@
-import { Inter, Lusitana } from 'next/font/google';
+import { Inter, Lusitana } from 'next/font/google'; // C.3 Optimizing Fonts and Images - 1. Adding a primary font
  
 export const inter = Inter({ subsets: ['latin'] });
  
